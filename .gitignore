@@ -1,0 +1,2 @@
+# ignore all .txt files -- usually choose files like log files that you don't want to include as part of project, or hide files
+*.txt
